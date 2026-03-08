@@ -1,2 +1,1 @@
-# ilk-projem
-Bu benim GitHub'daki ilk denemem
+"Merhaba Dünya! Bu benim ilk GitHub denemem. Her gün yepyeni şeyler öğreniyorum."
